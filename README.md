@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/nintendo-64/neon-genesis-evangelion)**.
+
 Traducción al **español de España** de *Neon Genesis Evangelion* (Nintendo 64, 1999),
 el juego de acción de Bandai que recorre la serie de Gainax en trece misiones y que
 solo salió en Japón.
